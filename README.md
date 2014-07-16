@@ -7,7 +7,7 @@ CSC 1600: Operating Systems
 
 Pair programmed by Austin Odell and Brian Dicola.
 
-The shell supports:  
+The shell supports:
   -  Command Line Parsing
   -  Process Execution
   -  I/O Redirection
@@ -17,3 +17,5 @@ The shell supports:
      -  SIGTSTP (ctrl-z)
   -  Resume
      -  SIGCONT (enter 'resume')
+
+Project assignment given in [assignment.pdf](https://github.com/austinodell/UNIX-Shell/blob/master/assignment.pdf).
